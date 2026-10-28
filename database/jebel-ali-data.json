@@ -1,0 +1,1064 @@
+{
+ "other_parts": [
+  {
+   "name": "Jebel Ali Village",
+   "area": "Jebel Ali",
+   "desc": "Villa community, Jebel Ali Recreation Club, Festival Plaza.",
+   "tags": [
+    "district"
+   ],
+   "transit": "Energy Metro + F44",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "JAFZA North & South",
+   "area": "Jebel Ali",
+   "desc": "Free zone with Gates 1-12, JAFZA One convention centre, logistics hubs.",
+   "tags": [
+    "district"
+   ],
+   "transit": "F54 from Danube (verify)",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Jebel Ali Industrial 1-3",
+   "area": "Jebel Ali",
+   "desc": "Staff housing, hypermarkets, clinics, hardware markets.",
+   "tags": [
+    "district"
+   ],
+   "transit": "F51 from Energy (reported)",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Downtown Jebel Ali",
+   "area": "Sheikh Zayed Rd",
+   "desc": "Mixed-use towers along E11.",
+   "tags": [
+    "district"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Mina Jebel Ali & Waterfront",
+   "area": "Coast",
+   "desc": "Port, JA The Resort, Palm Jebel Ali corridor.",
+   "tags": [
+    "district"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Discovery Gardens",
+   "area": "Adjacent",
+   "desc": "Themed clusters: Zen, Mediterranean, Contemporary, Mogul, Mesoamerican, Cactus.",
+   "tags": [
+    "district"
+   ],
+   "transit": "Discovery Gardens Metro (R71) / F43",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "The Gardens",
+   "area": "Adjacent",
+   "desc": "Residential community beside The Gardens Metro (R70).",
+   "tags": [
+    "district"
+   ],
+   "transit": "The Gardens Metro",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Al Furjan",
+   "area": "Adjacent",
+   "desc": "Community with Pavilion mall, Al Furjan Metro (R72).",
+   "tags": [
+    "district"
+   ],
+   "transit": "Al Furjan Metro",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Dubai Investments Park",
+   "area": "Adjacent",
+   "desc": "DIP 1 and 2, Metro R74.",
+   "tags": [
+    "district"
+   ],
+   "transit": "DIP Metro",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Expo City Dubai",
+   "area": "Adjacent",
+   "desc": "Former Expo 2020 site, Metro R76.",
+   "tags": [
+    "district"
+   ],
+   "transit": "Expo 2020 Metro",
+   "hours": "Verify before visiting"
+  }
+ ],
+ "churches": [
+  {
+   "name": "St. Francis of Assisi Catholic Church",
+   "area": "Jebel Ali Churches Complex",
+   "desc": "Catholic parish; multilingual Masses. Confirm languages and times with the parish.",
+   "tags": [
+    "church",
+    "catholic"
+   ],
+   "transit": "Energy Metro / Ibn Battuta Metro + feeder bus (verify)",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Christ Church Jebel Ali",
+   "area": "Jebel Ali Churches Complex",
+   "desc": "Anglican/Episcopal congregation. Confirm service times.",
+   "tags": [
+    "church"
+   ],
+   "transit": "Feeder bus from Ibn Battuta (F46, verify)",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "United Christian Church of Dubai (UCCD)",
+   "area": "Jebel Ali Churches Complex",
+   "desc": "Evangelical international congregation.",
+   "tags": [
+    "church"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Dubai Mar Thoma Parish",
+   "area": "Jebel Ali Churches Complex",
+   "desc": "Malayalam and English services reported.",
+   "tags": [
+    "church"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Orthodox congregations (St. Gregorios, Jacobite Syrian)",
+   "area": "Jebel Ali Churches Complex",
+   "desc": "Orthodox communities on the complex.",
+   "tags": [
+    "church"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "St. Mina Coptic Orthodox Church",
+   "area": "Jebel Ali Churches Complex",
+   "desc": "Coptic liturgies.",
+   "tags": [
+    "church"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Gurunanak Darbar Gurudwara",
+   "area": "Jebel Ali Village",
+   "desc": "Sikh temple; free langar for all; cover your head.",
+   "tags": [
+    "sikh"
+   ],
+   "transit": "Energy Metro + F44 (stop listed by RTA)",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Hindu Temple (Jebel Ali)",
+   "area": "Jebel Ali Village",
+   "desc": "Check official channels for visitor booking and timings.",
+   "tags": [
+    "hindu"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  }
+ ],
+ "malls": [
+  {
+   "name": "Ibn Battuta Mall",
+   "area": "Ibn Battuta Metro (R39)",
+   "desc": "Themed shopping mall linked to the metro by a covered walkway.",
+   "tags": [
+    "mall",
+    "metro"
+   ],
+   "transit": "Ibn Battuta Metro",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Ibn Battuta: China Court",
+   "area": "Ibn Battuta Mall",
+   "desc": "Entrance court with the replica Chinese junk; Asian dining.",
+   "tags": [
+    "court"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Ibn Battuta: India Court",
+   "area": "Ibn Battuta Mall",
+   "desc": "Indian-themed court with elephant clock.",
+   "tags": [
+    "court"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Ibn Battuta: Persia Court",
+   "area": "Ibn Battuta Mall",
+   "desc": "Persian-themed court, cinema and entertainment.",
+   "tags": [
+    "court"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Ibn Battuta: Egypt Court",
+   "area": "Ibn Battuta Mall",
+   "desc": "Egyptian-themed court.",
+   "tags": [
+    "court"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Ibn Battuta: Tunisia Court",
+   "area": "Ibn Battuta Mall",
+   "desc": "Tunisian-themed court; Carrefour is reported near here.",
+   "tags": [
+    "court"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Ibn Battuta: Andalusia Court",
+   "area": "Ibn Battuta Mall",
+   "desc": "Andalusian-themed court.",
+   "tags": [
+    "court"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Festival Plaza",
+   "area": "Jebel Ali Village",
+   "desc": "IKEA, ACE Hardware, Lulu, M&S.",
+   "tags": [
+    "mall"
+   ],
+   "transit": "Energy Metro + F44",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "The Pavilion",
+   "area": "Al Furjan / Discovery Gardens",
+   "desc": "Neighborhood mall with supermarket, clinics, cafes.",
+   "tags": [
+    "mall"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Parco / Nesto",
+   "area": "Jebel Ali Industrial 1",
+   "desc": "Budget shopping and remittance houses.",
+   "tags": [
+    "budget"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "The Outlet Village",
+   "area": "E11 toward Abu Dhabi",
+   "desc": "Outlet mall; check opening status.",
+   "tags": [
+    "mall"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  }
+ ],
+ "restaurants": [
+  {
+   "name": "Jebel Ali Recreation Club dining",
+   "area": "Jebel Ali Village",
+   "desc": "Club restaurants and sports bar (members/guests).",
+   "tags": [
+    "club"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Ibn Battuta food court and restaurants",
+   "area": "Ibn Battuta Mall",
+   "desc": "Wide range of chains and Asian, Indian and Turkish restaurants.",
+   "tags": [
+    "mall"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "IKEA Restaurant",
+   "area": "Festival Plaza",
+   "desc": "Swedish meals, breakfast deals.",
+   "tags": [
+    "mall"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Budget cafeterias",
+   "area": "Jebel Ali Industrial 1",
+   "desc": "South Asian, Filipino and Arab cafeterias; karak and shawarma.",
+   "tags": [
+    "budget"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Filipino eateries",
+   "area": "Discovery Gardens",
+   "desc": "Several grill and home-style restaurants.",
+   "tags": [
+    "budget"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "JA The Resort restaurants",
+   "area": "JA The Resort",
+   "desc": "Beachfront and resort dining.",
+   "tags": [
+    "resort"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  }
+ ],
+ "gyms": [
+  {
+   "name": "Fitness First",
+   "area": "Ibn Battuta Mall",
+   "desc": "Full gym with classes.",
+   "tags": [
+    "gym"
+   ],
+   "transit": "Ibn Battuta Metro",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Jebel Ali Recreation Club",
+   "area": "Jebel Ali Village",
+   "desc": "Pool, squash, padel (membership).",
+   "tags": [
+    "club"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Industrial-area gyms",
+   "area": "Jebel Ali Industrial",
+   "desc": "Budget weight gyms.",
+   "tags": [
+    "budget"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Al Furjan community facilities",
+   "area": "Al Furjan",
+   "desc": "Pools and courts (residents).",
+   "tags": [
+    "community"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Free calisthenics",
+   "area": "Discovery Gardens",
+   "desc": "Outdoor bars and courts.",
+   "tags": [
+    "free"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "F45 / CrossFit boxes",
+   "area": "DIP, Marina, JLT",
+   "desc": "Short metro hop north.",
+   "tags": [
+    "gym"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  }
+ ],
+ "markets": [
+  {
+   "name": "Carrefour",
+   "area": "Ibn Battuta Mall",
+   "desc": "Hypermarket.",
+   "tags": [
+    "grocery"
+   ],
+   "transit": "Ibn Battuta Metro",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Lulu Hypermarket",
+   "area": "Festival Plaza",
+   "desc": "Fresh food, Asian and Middle Eastern groceries.",
+   "tags": [
+    "grocery"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Spinneys / Waitrose",
+   "area": "Al Furjan, Jebel Ali Village",
+   "desc": "Premium grocery.",
+   "tags": [
+    "grocery"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Nesto / Parco / Al Madina",
+   "area": "Industrial 1-2",
+   "desc": "Budget bulk buying.",
+   "tags": [
+    "budget"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Viva Supermarket",
+   "area": "Discovery Gardens",
+   "desc": "Discount supermarket.",
+   "tags": [
+    "budget"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Asian specialty groceries",
+   "area": "Discovery Gardens, The Gardens",
+   "desc": "Filipino and South Asian goods.",
+   "tags": [
+    "grocery"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  }
+ ],
+ "study_masteral": [
+  {
+   "name": "University of Wollongong in Dubai",
+   "area": "Knowledge Park",
+   "desc": "MBA and other masters; check current list.",
+   "tags": [
+    "masters"
+   ],
+   "transit": "Red Line toward Centrepoint to Dubai Internet City / Knowledge Park",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Heriot-Watt University Dubai",
+   "area": "Knowledge Park",
+   "desc": "Engineering, MBA and MSc programmes.",
+   "tags": [
+    "masters"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Middlesex University Dubai",
+   "area": "Knowledge Park",
+   "desc": "Business, data and education masters.",
+   "tags": [
+    "masters"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "The British University in Dubai",
+   "area": "Academic City",
+   "desc": "Project management and engineering masters, PhD.",
+   "tags": [
+    "masters"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "University of Birmingham Dubai",
+   "area": "Academic City",
+   "desc": "MSc and MBA.",
+   "tags": [
+    "masters"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Admission tips",
+   "area": "UAE",
+   "desc": "Check KHDA/CAA accreditation and MOE attestation requirements for your degree.",
+   "tags": [
+    "tips"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  }
+ ],
+ "study_pmp": [
+  {
+   "name": "PMP requirements",
+   "area": "PMI",
+   "desc": "Check pmi.org for current experience, education and 35 contact hours rules.",
+   "tags": [
+    "pmp"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Authorized Training Partners",
+   "area": "Dubai",
+   "desc": "Confirm each ATP on PMI's official ATP list before paying.",
+   "tags": [
+    "pmp"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Pearson VUE",
+   "area": "Dubai",
+   "desc": "Test centres or OnVUE at home; check requirements.",
+   "tags": [
+    "pmp"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Study spots",
+   "area": "Ibn Battuta / Festival Plaza",
+   "desc": "Cafes with Wi-Fi; IKEA cafe.",
+   "tags": [
+    "pmp"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Co-working",
+   "area": "Expo City / JLT",
+   "desc": "Day passes at co-working spaces.",
+   "tags": [
+    "pmp"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  }
+ ],
+ "jogging_walking_bike": [
+  {
+   "name": "Discovery Gardens paths",
+   "area": "Discovery Gardens",
+   "desc": "Shaded walking trails away from highways.",
+   "tags": [
+    "walk"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Al Furjan / Jebel Ali Village loops",
+   "area": "Al Furjan",
+   "desc": "Jogging and cycling lanes.",
+   "tags": [
+    "bike"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Mina Jebel Ali shoreline",
+   "area": "Coast",
+   "desc": "Beach running; check access.",
+   "tags": [
+    "jog"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Expo City loops",
+   "area": "Expo City",
+   "desc": "Car-free avenues.",
+   "tags": [
+    "bike"
+   ],
+   "transit": "Expo 2020 Metro",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Al Qudra Cycling Track",
+   "area": "E77 north",
+   "desc": "Roughly 86 km desert track.",
+   "tags": [
+    "bike"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Marina Walk / JBR",
+   "area": "Marina",
+   "desc": "Waterfront jogging.",
+   "tags": [
+    "jog"
+   ],
+   "transit": "DMCC or Sobha Realty Metro",
+   "hours": "Verify before visiting"
+  }
+ ],
+ "other_places": [
+  {
+   "name": "JA The Resort",
+   "area": "Jebel Ali",
+   "desc": "Beach resort, golf, equestrian.",
+   "tags": [
+    "resort"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Jebel Ali public beach / Kite Beach Jebel Ali",
+   "area": "Coast",
+   "desc": "Public beach access; check rules.",
+   "tags": [
+    "beach"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Dubai Parks and Resorts",
+   "area": "E11 / Jebel Ali South",
+   "desc": "Motiongate, Real Madrid World, Legoland.",
+   "tags": [
+    "fun"
+   ],
+   "transit": "DPR1 from Ibn Battuta (verify)",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Expo City Dubai",
+   "area": "Expo",
+   "desc": "Al Wasl Plaza, Garden in the Sky.",
+   "tags": [
+    "fun"
+   ],
+   "transit": "Expo 2020 Metro",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Last Exit Jebel Ali",
+   "area": "E11",
+   "desc": "Food truck park.",
+   "tags": [
+    "food"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Bluewaters / Ain Dubai",
+   "area": "Marina",
+   "desc": "Island district; check Ain Dubai status.",
+   "tags": [
+    "fun"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  }
+ ],
+ "transport": [
+  {
+   "name": "Red Line to Life Pharmacy branch",
+   "area": "Metro",
+   "desc": "Jabal Ali (R38), Ibn Battuta (R39), Energy (R40), Danube (R41), Life Pharmacy (R42, formerly UAE Exchange).",
+   "tags": [
+    "metro"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "Red Line Route 2020 branch",
+   "area": "Metro",
+   "desc": "Jabal Ali, The Gardens (R70), Discovery Gardens (R71), Al Furjan (R72), Jumeirah Golf Estates (R73), DIP (R74), Expo 2020 (R76).",
+   "tags": [
+    "metro"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "F43",
+   "area": "Bus",
+   "desc": "Ibn Battuta Metro to Discovery Gardens (verify).",
+   "tags": [
+    "bus"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "F44",
+   "area": "Bus",
+   "desc": "Ibn Battuta - Energy - Jebel Ali Gardens; serves Festival Plaza and Gurunanak Darbar.",
+   "tags": [
+    "bus"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "F46",
+   "area": "Bus",
+   "desc": "Ibn Battuta Metro to Jebel Ali Gardens / Industrial (verify).",
+   "tags": [
+    "bus"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "F51",
+   "area": "Bus",
+   "desc": "Jebel Ali Industrial Area - Energy Station (reported).",
+   "tags": [
+    "bus"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "F54",
+   "area": "Bus",
+   "desc": "Danube / UAE Exchange to JAFZA South (verify).",
+   "tags": [
+    "bus"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "E101",
+   "area": "Bus",
+   "desc": "Ibn Battuta to Abu Dhabi; check current fare in the RTA app.",
+   "tags": [
+    "bus"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  },
+  {
+   "name": "DPR1",
+   "area": "Bus",
+   "desc": "Ibn Battuta to Dubai Parks (verify).",
+   "tags": [
+    "bus"
+   ],
+   "transit": "",
+   "hours": "Verify before visiting"
+  }
+ ],
+ "dubai_streets": [
+  {
+   "code": "E11",
+   "name": "Sheikh Zayed Road",
+   "type": "E",
+   "desc": "Main coastal artery from Abu Dhabi border through Jebel Ali, Marina, Downtown. Salik gates.",
+   "salik_free": false,
+   "tags": [
+    "road"
+   ],
+   "area": "E",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "E311",
+   "name": "Sheikh Mohammed bin Zayed Rd",
+   "type": "E",
+   "desc": "Parallel highway by Discovery Gardens, Al Furjan, Industrial. No Salik.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "E",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "E611",
+   "name": "Emirates Road",
+   "type": "E",
+   "desc": "Outer bypass behind DIP toward Sharjah/RAK. No Salik.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "E",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "E44",
+   "name": "Al Khail Road",
+   "type": "E",
+   "desc": "Links Jebel Ali area to Business Bay and Ras Al Khor.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "E",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "E77",
+   "name": "Jebel Ali-Lehbab Road",
+   "type": "E",
+   "desc": "Port/JAFZA toward Expo, Al Qudra and Hatta.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "E",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "E66",
+   "name": "Dubai-Al Ain Road",
+   "type": "E",
+   "desc": "Eastbound inter-emirate route.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "E",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "E88",
+   "name": "Al Dhaid Road",
+   "type": "E",
+   "desc": "Eastbound inter-emirate route.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "E",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "D57",
+   "name": "Al Yalayis Street",
+   "type": "D",
+   "desc": "Links E11 to E311 and E611.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "D",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "D59",
+   "name": "Garn Al Sabkha / Al Hadaeq St",
+   "type": "D",
+   "desc": "Jebel Ali Village / Discovery Gardens to E311.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "D",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "D53",
+   "name": "JAFZA South corridor",
+   "type": "D",
+   "desc": "Verify exact name and route before use.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "D",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "D94",
+   "name": "King Salman Bin Abdulaziz Al Saud St",
+   "type": "D",
+   "desc": "Coastal road to Marina, JBR, Palm.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "D",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "D61",
+   "name": "Hessa Street",
+   "type": "D",
+   "desc": "Coast to Al Barsha / Arabian Ranches.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "D",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "D63",
+   "name": "Umm Suqeim Street",
+   "type": "D",
+   "desc": "Cross-city link.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "D",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "D89",
+   "name": "Al Maktoum / Airport Road",
+   "type": "D",
+   "desc": "Verify before use.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "D",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "D92",
+   "name": "Al Mina / Al Wasl Road",
+   "type": "D",
+   "desc": "Verify before use.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "D",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "JA",
+   "name": "JAFZA Gates 1-12",
+   "type": "L",
+   "desc": "Local gate grid.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "L",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "JA",
+   "name": "Roundabouts 1-13",
+   "type": "L",
+   "desc": "Local roundabouts; verify numbering with maps.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "L",
+   "hours": "",
+   "transit": ""
+  },
+  {
+   "code": "JA",
+   "name": "Discovery Gardens Streets 1-13",
+   "type": "L",
+   "desc": "Local grid.",
+   "salik_free": true,
+   "tags": [
+    "road"
+   ],
+   "area": "L",
+   "hours": "",
+   "transit": ""
+  }
+ ],
+ "meta": {
+  "salik": {
+   "peak": 6.3,
+   "offpeak": 4.2,
+   "free": "01:00-06:00",
+   "vat": "5% from 2026-06-01",
+   "peak_hours": "06-10 and 16-20 Mon-Sat",
+   "sunday": 4.2,
+   "checked": "2026-10-28"
+  },
+  "note": "Verify hours, fares and routes with RTA and venues."
+ }
+}
