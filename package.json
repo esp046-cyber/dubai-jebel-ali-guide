@@ -1,0 +1,12 @@
+{
+ "name": "jebel-ali-dubai-guide-pwa",
+ "version": "1.0.0",
+ "license": "MIT",
+ "scripts": {
+  "start": "node backend/server.js",
+  "build": "echo static site",
+  "test": "node tests/app.test.js",
+  "lint": "echo none"
+ },
+ "dependencies": {}
+}
