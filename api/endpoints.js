@@ -1,0 +1,1 @@
+const D=require("../database/jebel-ali-data.json");module.exports={locations:c=>D[c]||[],streets:t=>D.dubai_streets.filter(s=>!t||s.type===t),transit:()=>D.transport};
