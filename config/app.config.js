@@ -1,0 +1,1 @@
+window.APP_CONFIG={version:"1.0.0",theme:{navy:"#0B132B",gold:"#D4AF37",emerald:"#10B981"},emergency:{police:"999",ambulance:"998",rta:"8009090",dewa:"991"},fareZones:{one:3,two:5,three:7.5}};if(typeof module!=="undefined")module.exports=window.APP_CONFIG;
