@@ -1,0 +1,1 @@
+const e=require("express"),p=require("path"),a=require("../api/endpoints");const s=e();s.use(e.static(p.join(__dirname,"..")));s.get("/api/:c",(q,r)=>r.json(a.locations(q.params.c)));s.listen(process.env.PORT||3000);
