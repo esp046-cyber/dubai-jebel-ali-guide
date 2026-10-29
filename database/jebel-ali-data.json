@@ -8,7 +8,8 @@
     "district"
    ],
    "transit": "Energy Metro + F44",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "JAFZA North & South",
@@ -18,7 +19,8 @@
     "district"
    ],
    "transit": "Danube Metro + F54",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Jebel Ali Industrial 1-3",
@@ -28,7 +30,8 @@
     "district"
    ],
    "transit": "Danube Metro + F49",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Downtown Jebel Ali",
@@ -38,7 +41,8 @@
     "district"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Mina Jebel Ali & Waterfront",
@@ -48,7 +52,8 @@
     "district"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Discovery Gardens",
@@ -58,7 +63,8 @@
     "district"
    ],
    "transit": "Discovery Gardens Metro (R71) / F43",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "The Gardens",
@@ -68,7 +74,8 @@
     "district"
    ],
    "transit": "The Gardens Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Al Furjan",
@@ -78,7 +85,8 @@
     "district"
    ],
    "transit": "Al Furjan Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Dubai Investments Park",
@@ -88,7 +96,8 @@
     "district"
    ],
    "transit": "DIP Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Expo City Dubai",
@@ -98,30 +107,32 @@
     "district"
    ],
    "transit": "Expo 2020 Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   }
  ],
  "churches": [
   {
    "name": "St. Francis of Assisi Catholic Church",
    "area": "Jebel Ali Churches Complex",
-   "desc": "Large Catholic parish. English Masses: Mon-Fri 6:15 AM, 9:00 AM, 7:00 PM; Sat 8:30 AM, 5:30 PM, 7:00 PM; Sun 7:30 AM, 9:00 AM, 10:30 AM, 5:30 PM, 7:00 PM. Masses in other languages (Malayalam, Tagalog, Tamil, Arabic, Korean, Spanish and more) vary by week: call the parish office, +971 4 884 5251.",
+   "desc": "Large Catholic parish in the Jebel Ali Worship Village with multilingual Masses.",
    "tags": [
-    "church",
-    "catholic"
+    "Catholic church"
    ],
-   "transit": "Energy or Ibn Battuta Metro + F44 (church bus stop)",
-   "hours": "Church open about 5:00 AM-9:30 PM daily"
+   "transit": "Energy Metro + Bus F44",
+   "hours": "Church open daily until about 9:30 PM. English Masses: Mon-Fri 6:15 AM, 9:00 AM, 7:00 PM | Sat 8:30 AM, 5:30 PM, 7:00 PM | Sun 7:30 AM, 9:00 AM, 10:30 AM, 5:30 PM, 7:00 PM",
+   "tip": "Masses in other languages (Malayalam, Tagalog, Tamil, Arabic and more) change by week. Call +971 4 884 5251."
   },
   {
    "name": "United Christian Church of Dubai (UCCD)",
    "area": "Jebel Ali Worship Village",
    "desc": "Evangelical international congregation; English-language services.",
    "tags": [
-    "church"
+    "Evangelical church"
    ],
-   "transit": "F44 from Energy Metro",
-   "hours": "See church notice board"
+   "transit": "Energy Metro + Bus F44",
+   "hours": "",
+   "tip": "English-language services; confirm times with the church."
   },
   {
    "name": "Dubai Mar Thoma Parish",
@@ -131,7 +142,8 @@
     "church"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Orthodox congregations (St. Gregorios, Jacobite Syrian)",
@@ -141,7 +153,8 @@
     "church"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "St. Mina Coptic Orthodox Church",
@@ -151,37 +164,41 @@
     "church"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Gurunanak Darbar Gurudwara",
    "area": "Jebel Ali Worship Village",
-   "desc": "Sikh temple. Free langar (vegetarian community meal) for all visitors. Cover your head; scarves are usually available at the entrance.",
+   "desc": "Dubai's largest gurudwara. Free vegetarian langar for everyone, served daily.",
    "tags": [
-    "sikh"
+    "Sikh gurudwara"
    ],
-   "transit": "Energy or Ibn Battuta Metro + F44",
-   "hours": "Open daily; see gurudwara for exact times"
+   "transit": "Energy Metro + Bus F44",
+   "hours": "Timings were revised: recently 6:00 AM-6:00 PM (last entry 5:30 PM). Some sites still list 4:30 AM-9:00 PM",
+   "tip": "Cover your head (scarves at the entrance) and remove shoes. Tel +971 4 882 7550; latest timings at gurudwaradubai.com."
   },
   {
    "name": "Hindu Temple Dubai (Jebel Ali)",
    "area": "Jebel Ali Worship Village",
-   "desc": "Opened Oct 2022 beside the gurudwara. Free entry. Sources give opening around 6:00-6:30 AM to 8:30 PM with evening aarti at 7:30 PM. Booking rules have changed over time; check hindutempledubai.com before weekends and festivals.",
+   "desc": "Multi-deity temple beside the gurudwara, opened in 2022. Free entry.",
    "tags": [
-    "hindu"
+    "Hindu temple"
    ],
-   "transit": "Energy or Ibn Battuta Metro + F44",
-   "hours": "About 6:00-6:30 AM to 8:30 PM daily"
+   "transit": "Energy Metro + Bus F44",
+   "hours": "Daily, about 6:00-6:30 AM to 8:30 PM | Evening aarti 7:30 PM",
+   "tip": "Weekends and festivals may need a free QR booking at hindutempledubai.com."
   },
   {
    "name": "Christ Church Jebel Ali (Anglican)",
    "area": "Jebel Ali Worship Village",
    "desc": "Anglican/Episcopal congregation with Friday and Sunday worship; times vary by service.",
    "tags": [
-    "church"
+    "Anglican church"
    ],
-   "transit": "F44 from Energy Metro",
-   "hours": "See church notice board"
+   "transit": "Energy Metro + Bus F44",
+   "hours": "",
+   "tip": "Friday and Sunday services; confirm times with the church."
   },
   {
    "name": "Worship Village overview",
@@ -191,7 +208,8 @@
     "tip"
    ],
    "transit": "Energy Metro + F44",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   }
  ],
  "malls": [
@@ -200,11 +218,11 @@
    "area": "Ibn Battuta Metro (R39)",
    "desc": "Themed shopping mall linked to the metro by a covered walkway.",
    "tags": [
-    "mall",
-    "metro"
+    "Mall"
    ],
-   "transit": "Ibn Battuta Metro",
-   "hours": "Check current hours"
+   "transit": "Ibn Battuta Metro (covered link to the mall)",
+   "hours": "Sun-Thu 10 AM-10 PM | Fri-Sat 10 AM-midnight (Ramadan and holidays differ)",
+   "tip": "Taxis wait at the China, Persia and Andalusia court entrances."
   },
   {
    "name": "Ibn Battuta: China Court",
@@ -214,7 +232,8 @@
     "court"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Ibn Battuta: India Court",
@@ -224,17 +243,19 @@
     "court"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Ibn Battuta: Persia Court",
    "area": "Ibn Battuta Mall",
-   "desc": "Persian-themed court, cinema and entertainment.",
+   "desc": "Persian-themed court with entertainment venues.",
    "tags": [
     "court"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Ibn Battuta: Egypt Court",
@@ -244,7 +265,8 @@
     "court"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Ibn Battuta: Tunisia Court",
@@ -254,7 +276,8 @@
     "court"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Ibn Battuta: Andalusia Court",
@@ -264,17 +287,19 @@
     "court"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Festival Plaza",
    "area": "Jebel Ali Village",
-   "desc": "IKEA, ACE Hardware, Lulu, M&S.",
+   "desc": "Jebel Ali Village mall with IKEA, ACE Hardware, Lulu and M&S.",
    "tags": [
-    "mall"
+    "Mall"
    ],
-   "transit": "Energy Metro + F44",
-   "hours": "Check current hours"
+   "transit": "Energy Metro + Bus F44",
+   "hours": "Listed open until midnight; IKEA, Lulu and ACE set their own hours",
+   "tip": ""
   },
   {
    "name": "The Pavilion",
@@ -284,7 +309,8 @@
     "mall"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Parco / Nesto",
@@ -294,7 +320,8 @@
     "budget"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "The Outlet Village",
@@ -304,7 +331,8 @@
     "mall"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   }
  ],
  "restaurants": [
@@ -316,7 +344,8 @@
     "club"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Ibn Battuta food court and restaurants",
@@ -326,7 +355,8 @@
     "mall"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "IKEA Restaurant",
@@ -336,7 +366,8 @@
     "mall"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Budget cafeterias",
@@ -346,7 +377,8 @@
     "budget"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Filipino eateries",
@@ -356,7 +388,8 @@
     "budget"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "JA The Resort restaurants",
@@ -366,7 +399,8 @@
     "resort"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Gazebo (Indian)",
@@ -376,7 +410,8 @@
     "mall"
    ],
    "transit": "Ibn Battuta Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Bosporus (Turkish)",
@@ -386,7 +421,8 @@
     "mall"
    ],
    "transit": "Ibn Battuta Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Din Tai Fung",
@@ -396,7 +432,8 @@
     "mall"
    ],
    "transit": "Ibn Battuta Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Off The Hook",
@@ -406,7 +443,8 @@
     "mall"
    ],
    "transit": "Ibn Battuta Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Last Exit food trucks",
@@ -416,7 +454,8 @@
     "food"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   }
  ],
  "gyms": [
@@ -428,7 +467,8 @@
     "gym"
    ],
    "transit": "Ibn Battuta Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Jebel Ali Recreation Club",
@@ -438,7 +478,8 @@
     "club"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Industrial-area gyms",
@@ -448,7 +489,8 @@
     "budget"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Al Furjan community facilities",
@@ -458,7 +500,8 @@
     "community"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Free calisthenics",
@@ -468,7 +511,8 @@
     "free"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "F45 / CrossFit boxes",
@@ -478,7 +522,8 @@
     "gym"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   }
  ],
  "markets": [
@@ -490,7 +535,8 @@
     "grocery"
    ],
    "transit": "Ibn Battuta Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Lulu Hypermarket",
@@ -500,7 +546,8 @@
     "grocery"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Spinneys / Waitrose",
@@ -510,7 +557,8 @@
     "grocery"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Nesto / Parco / Al Madina",
@@ -520,7 +568,8 @@
     "budget"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Viva Supermarket",
@@ -530,7 +579,8 @@
     "budget"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Asian specialty groceries",
@@ -540,7 +590,8 @@
     "grocery"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   }
  ],
  "study_masteral": [
@@ -552,7 +603,8 @@
     "masters"
    ],
    "transit": "Red Line toward Centrepoint to Dubai Internet City / Knowledge Park",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Heriot-Watt University Dubai",
@@ -562,7 +614,8 @@
     "masters"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Middlesex University Dubai",
@@ -572,7 +625,8 @@
     "masters"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "The British University in Dubai",
@@ -582,7 +636,8 @@
     "masters"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "University of Birmingham Dubai",
@@ -592,7 +647,8 @@
     "masters"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Admission tips",
@@ -602,7 +658,8 @@
     "tips"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Strathclyde Business School MBA",
@@ -612,7 +669,8 @@
     "masters"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   }
  ],
  "study_pmp": [
@@ -624,7 +682,8 @@
     "pmp"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Authorized Training Partners",
@@ -634,7 +693,8 @@
     "pmp"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Pearson VUE",
@@ -644,7 +704,8 @@
     "pmp"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Study spots",
@@ -654,7 +715,8 @@
     "pmp"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Co-working",
@@ -664,7 +726,8 @@
     "pmp"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Zabeel International Institute",
@@ -674,7 +737,8 @@
     "pmp"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Edoxi Training Institute",
@@ -684,7 +748,8 @@
     "pmp"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "PwC Academy",
@@ -694,7 +759,8 @@
     "pmp"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Leoron Professional Development Institute",
@@ -704,7 +770,8 @@
     "pmp"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Pearson VUE test centre, Knowledge Park",
@@ -714,7 +781,8 @@
     "pmp"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   }
  ],
  "jogging_walking_bike": [
@@ -726,7 +794,8 @@
     "walk"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Al Furjan / Jebel Ali Village loops",
@@ -736,7 +805,8 @@
     "bike"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Mina Jebel Ali shoreline",
@@ -746,7 +816,8 @@
     "jog"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Expo City loops",
@@ -756,7 +827,8 @@
     "bike"
    ],
    "transit": "Expo 2020 Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Al Qudra Cycling Track",
@@ -766,7 +838,8 @@
     "bike"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Marina Walk / JBR",
@@ -776,7 +849,8 @@
     "jog"
    ],
    "transit": "DMCC or Sobha Realty Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   }
  ],
  "other_places": [
@@ -788,7 +862,8 @@
     "resort"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Jebel Ali public beach / Kite Beach Jebel Ali",
@@ -798,7 +873,8 @@
     "beach"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Dubai Parks and Resorts",
@@ -808,7 +884,8 @@
     "fun"
    ],
    "transit": "DPR1 from Ibn Battuta",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Expo City Dubai",
@@ -818,7 +895,8 @@
     "fun"
    ],
    "transit": "Expo 2020 Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Last Exit Jebel Ali",
@@ -828,7 +906,8 @@
     "food"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Bluewaters / Ain Dubai",
@@ -838,7 +917,8 @@
     "fun"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   }
  ],
  "transport": [
@@ -850,7 +930,8 @@
     "metro"
    ],
    "transit": "Check the destination on the train and platform display",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Red Line: Expo 2020 branch",
@@ -860,7 +941,8 @@
     "metro"
    ],
    "transit": "Check the destination on the train and platform display",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "Changing between branches",
@@ -871,7 +953,8 @@
     "tip"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "F43",
@@ -881,17 +964,19 @@
     "bus"
    ],
    "transit": "Ibn Battuta Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "F44",
    "area": "Feeder bus",
-   "desc": "Energy Metro to Jebel Ali Gardens; stops near Festival Plaza and the Worship Village (churches, gurudwara, Hindu temple).",
+   "desc": "Energy Metro to Jebel Ali Village, Festival Plaza and Jebel Ali Gardens, with a stop at the Worship Village.",
    "tags": [
     "bus"
    ],
    "transit": "Energy Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "F45",
@@ -901,27 +986,30 @@
     "bus"
    ],
    "transit": "",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "F46",
    "area": "Feeder bus",
-   "desc": "Ibn Battuta Metro to Dubai Investments Park 2 via the Jebel Ali area and DIP 1.",
+   "desc": "Ibn Battuta Metro to Green Community and Dubai Investments Park 1 and 2.",
    "tags": [
     "bus"
    ],
    "transit": "Ibn Battuta Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "F49",
    "area": "Feeder bus",
-   "desc": "Danube Metro to Jebel Ali Industrial Area.",
+   "desc": "Danube Metro to Jebel Ali Industrial Area 1 and nearby labour accommodation.",
    "tags": [
     "bus"
    ],
    "transit": "Danube Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "F54",
@@ -931,7 +1019,8 @@
     "bus"
    ],
    "transit": "Danube Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
   },
   {
    "name": "E101",
@@ -941,7 +1030,8 @@
     "bus"
    ],
    "transit": "Ibn Battuta Metro / Bus Station",
-   "hours": "Check current hours"
+   "hours": "Reported fare AED 25 by Nol card",
+   "tip": ""
   },
   {
    "name": "DPR1",
@@ -951,7 +1041,96 @@
     "bus"
    ],
    "transit": "Ibn Battuta Metro",
-   "hours": "Check current hours"
+   "hours": "",
+   "tip": ""
+  },
+  {
+   "name": "DP World Jebel Ali Port",
+   "area": "Mina Jebel Ali",
+   "desc": "Dubai's flagship container port, opened in 1979 and described as the world's largest man-made port. Visitors cannot simply drive in.",
+   "tags": [
+    "Port"
+   ],
+   "transit": "Danube Metro, then bus or taxi",
+   "hours": "",
+   "tip": "Gate 4 is the closest gate to JAFZA. Trucks leaving the port use the Gate 3 inspection complex."
+  },
+  {
+   "name": "Gate passes for the port and JAFZA (Tasreeh)",
+   "area": "Jebel Ali Port and Free Zone",
+   "desc": "PCFC's 24-hour online system for visitor, one-day, temporary and permanent passes. Passes are tied to a specific port and gate.",
+   "tags": [
+    "Port"
+   ],
+   "transit": "",
+   "hours": "Online 24/7",
+   "tip": "Apply at tasreeh.ae before you travel. A gate pass is needed whatever your visa type."
+  },
+  {
+   "name": "Al Maktoum International Airport (DWC)",
+   "area": "Dubai South",
+   "desc": "Dubai's second airport, next to Jebel Ali. The metro does not reach it; buses and taxis connect it to the Red Line.",
+   "tags": [
+    "Airport"
+   ],
+   "transit": "Ibn Battuta Metro + Bus N55, or Expo 2020 Metro + Bus F55",
+   "hours": "",
+   "tip": "The airport's own site lists both buses about every 30 minutes. Taxi from Ibn Battuta Metro is the alternative."
+  },
+  {
+   "name": "Bus N55: DWC and Ibn Battuta",
+   "area": "Ibn Battuta to Al Maktoum Airport",
+   "desc": "RTA bus linking Al Maktoum International Airport with Ibn Battuta bus and metro stations.",
+   "tags": [
+    "Bus"
+   ],
+   "transit": "Ibn Battuta Metro / Bus Station",
+   "hours": "About every 30 minutes (per the airport)",
+   "tip": "Check the RTA app for the current timetable and fare."
+  },
+  {
+   "name": "Bus F55: DWC and Expo 2020",
+   "area": "Expo 2020 Metro to Al Maktoum Airport",
+   "desc": "RTA bus between Expo 2020 Metro Station and Al Maktoum International Airport. It no longer runs to Ibn Battuta.",
+   "tags": [
+    "Bus"
+   ],
+   "transit": "Expo 2020 Metro (R76)",
+   "hours": "About every 30 minutes (per the airport)",
+   "tip": "Use N55 from Ibn Battuta instead."
+  },
+  {
+   "name": "Dubai International Airport (DXB) by metro",
+   "area": "Red Line, northbound",
+   "desc": "The Red Line serves Terminal 1 and Terminal 3 stations. Terminal 2 has no metro station.",
+   "tags": [
+    "Airport"
+   ],
+   "transit": "Take any northbound Red Line train toward Centrepoint",
+   "hours": "",
+   "tip": "Allow about an hour from Jebel Ali; check the RTA app for exact times."
+  },
+  {
+   "name": "Jabal Ali Metro Park & Ride",
+   "area": "Jabal Ali Metro Station (R38)",
+   "desc": "Free multi-storey parking for metro riders at the Red Line junction. Tap a Silver or Gold Nol card at the entrance, ride the metro with the same card, then tap again to leave.",
+   "tags": [
+    "Parking"
+   ],
+   "transit": "Jabal Ali Metro (R38)",
+   "hours": "",
+   "tip": "Free only if you ride the metro. Stays longer than 24 hours can be fined."
+  },
+  {
+   "name": "Ibn Battuta Mall parking",
+   "area": "Ibn Battuta Mall",
+   "desc": "Large covered and surface parking for the mall, beside the metro and bus stations.",
+   "tags": [
+    "Parking"
+   ],
+   "transit": "Ibn Battuta Metro",
+   "hours": "",
+   "tip": "Parking guides list it as free at all times."
   }
  ],
  "dubai_streets": [
@@ -966,7 +1145,8 @@
    ],
    "area": "E",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "E311",
@@ -979,7 +1159,8 @@
    ],
    "area": "E",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "E611",
@@ -992,7 +1173,8 @@
    ],
    "area": "E",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "E44",
@@ -1005,7 +1187,8 @@
    ],
    "area": "E",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "E77",
@@ -1018,7 +1201,8 @@
    ],
    "area": "E",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "E66",
@@ -1031,7 +1215,8 @@
    ],
    "area": "E",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "E88",
@@ -1044,7 +1229,8 @@
    ],
    "area": "E",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "D57",
@@ -1057,7 +1243,8 @@
    ],
    "area": "D",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "D59",
@@ -1070,7 +1257,8 @@
    ],
    "area": "D",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "D53",
@@ -1083,7 +1271,8 @@
    ],
    "area": "D",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "D94",
@@ -1096,7 +1285,8 @@
    ],
    "area": "D",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "D61",
@@ -1109,7 +1299,8 @@
    ],
    "area": "D",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "D63",
@@ -1122,7 +1313,8 @@
    ],
    "area": "D",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "D89",
@@ -1135,7 +1327,8 @@
    ],
    "area": "D",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "D92",
@@ -1148,7 +1341,8 @@
    ],
    "area": "D",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "JA",
@@ -1161,7 +1355,8 @@
    ],
    "area": "L",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "JA",
@@ -1174,7 +1369,8 @@
    ],
    "area": "L",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   },
   {
    "code": "JA",
@@ -1187,7 +1383,8 @@
    ],
    "area": "L",
    "hours": "",
-   "transit": ""
+   "transit": "",
+   "tip": ""
   }
  ],
  "meta": {
@@ -1214,5 +1411,143 @@
    "DIP (R74)": "Dubai Investments Park; F46 serves DIP 1 and 2.",
    "Expo 2020 (R76)": "Expo City Dubai: Al Wasl Plaza, car-free loops, Garden in the Sky."
   }
- }
+ },
+ "car_repair": [
+  {
+   "name": "Tasjeel Jebel Ali",
+   "area": "Sheikh Zayed Road, JAFZA Gate 18 / JAFZA 25 corridor, Mina Jebel Ali",
+   "desc": "RTA vehicle testing and registration: annual roadworthiness inspection, Mulkiya renewal, export test and transfer tests.",
+   "tags": [
+    "Vehicle testing"
+   ],
+   "transit": "Nearest metro: Danube or Energy, then a taxi",
+   "hours": "Mon-Thu and Sat 7:00 AM-9:00 PM | Fri 7:00 AM-12:00 PM and 3:00-9:00 PM | Sun closed",
+   "tip": "Tel +971 4 883 0067 or RTA 800 9090.",
+   "hue": 210
+  },
+  {
+   "name": "Al Riyada Vehicle Testing and Registration Centre",
+   "area": "Jebel Ali",
+   "desc": "New RTA centre for vehicle testing and registration in Jebel Ali.",
+   "tags": [
+    "Vehicle testing"
+   ],
+   "transit": "",
+   "hours": "Sat-Thu 7:00 AM-10:30 PM | Fri 7:00 AM-12:00 PM and 3:00-10:30 PM",
+   "tip": "Check the RTA app for the exact address and booking.",
+   "hue": 210
+  }
+ ],
+ "government_civic": [
+  {
+   "name": "Amer Centre Ibn Battuta (Ahlan Businessmen Services)",
+   "area": "China Court, Ibn Battuta Mall (ground floor, near the parking entrance)",
+   "desc": "Emirates ID biometrics typing, residency visa stamping and cancellation, Golden Visa applications and entry permits.",
+   "tags": [
+    "Visa & Emirates ID"
+   ],
+   "transit": "Ibn Battuta Metro (covered link to the mall)",
+   "hours": "Mon-Sat 9:00 AM-8:00 PM | Fri afternoon closed | Sun limited",
+   "tip": "Tel +971 4 886 6060. Toll-free 800 5111.",
+   "hue": 275
+  },
+  {
+   "name": "RTA smart kiosks, metro concourses",
+   "area": "Ibn Battuta Metro and Life Pharmacy (formerly UAE Exchange) Metro",
+   "desc": "Self-service kiosks for Nol card balance recharge, expiry renewal and Dubai Police traffic fine payment by debit or credit card.",
+   "tags": [
+    "RTA kiosk"
+   ],
+   "transit": "Ibn Battuta Metro, Life Pharmacy Metro",
+   "hours": "During metro operating hours",
+   "tip": "Card payment only.",
+   "hue": 275
+  },
+  {
+   "name": "Tas'heel and Tawjeeh centres",
+   "area": "Dubai Investments Park 1 (13th Street) and JAFZA Gateway",
+   "desc": "MOHRE services: labour contract attestation, work permit issuance and company establishment cards.",
+   "tags": [
+    "Labour services"
+   ],
+   "transit": "DIP Metro (R74) for DIP 1",
+   "hours": "",
+   "tip": "",
+   "hue": 275
+  },
+  {
+   "name": "Visa medical centre, Ibn Battuta Mall",
+   "area": "China Court, beside DEWA Customer Happiness Centre",
+   "desc": "Residency visa medical and embassy fitness tests.",
+   "tags": [
+    "Visa medical"
+   ],
+   "transit": "Ibn Battuta Metro (covered link to the mall)",
+   "hours": "Sun-Thu 8:00 AM-7:30 PM | Fri 8:00-11:30 AM and 4:00-7:30 PM",
+   "tip": "Tel +971 4 880 4762. Listed at AED 110 for the 48-hour residency medical.",
+   "hue": 275
+  },
+  {
+   "name": "DEWA Customer Happiness Centre",
+   "area": "China Court, Ibn Battuta Mall",
+   "desc": "Utility bill and connection services, next to the visa medical centre.",
+   "tags": [
+    "Utilities"
+   ],
+   "transit": "Ibn Battuta Metro (covered link to the mall)",
+   "hours": "",
+   "tip": "",
+   "hue": 275
+  }
+ ],
+ "markets_technical": [
+  {
+   "name": "Jebel Ali Industrial 1 hardware shops",
+   "area": "Jebel Ali Industrial Area 1",
+   "desc": "Wholesale shops for tools, electrical items, PPE, fittings and cable. Parco hypermarket is in the same area.",
+   "tags": [
+    "Hardware"
+   ],
+   "transit": "Danube Metro + Bus F49",
+   "hours": "",
+   "tip": "",
+   "hue": 28
+  },
+  {
+   "name": "ACE Hardware (flagship)",
+   "area": "Festival Plaza, Jebel Ali Village",
+   "desc": "Heavy tools, electrical supplies, fasteners, plumbing and outdoor gear.",
+   "tags": [
+    "Hardware"
+   ],
+   "transit": "Energy Metro + Bus F44",
+   "hours": "Sun-Thu 10:00 AM-10:00 PM | Fri-Sat 10:00 AM-12:00 AM",
+   "tip": "",
+   "hue": 28
+  },
+  {
+   "name": "JAFZA One Convention Centre",
+   "area": "Jebel Ali Free Zone",
+   "desc": "Commercial tower and convention centre for corporate offices and events.",
+   "tags": [
+    "Business hub"
+   ],
+   "transit": "Danube or Energy Metro, then a taxi",
+   "hours": "",
+   "tip": "",
+   "hue": 28
+  },
+  {
+   "name": "DEWA Jebel Ali Power and Desalination Complex",
+   "area": "Mina Jebel Ali",
+   "desc": "Major power and desalination complex, a landmark for the area's engineering and instrumentation industry. An industrial site, not a visitor attraction.",
+   "tags": [
+    "Industrial site"
+   ],
+   "transit": "",
+   "hours": "",
+   "tip": "",
+   "hue": 28
+  }
+ ]
 }
