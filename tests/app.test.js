@@ -1,1 +1,12 @@
-const assert=require("assert"),D=require("../database/jebel-ali-data.json"),M=require("../manifest.json");["other_parts","churches","malls","restaurants","gyms","markets","study_masteral","study_pmp","jogging_walking_bike","other_places","transport","dubai_streets"].forEach(k=>assert(D[k]&&D[k].length,k));["name","start_url","display","icons"].forEach(k=>assert(M[k],k));console.log("OK");
+const assert=require("assert"),fs=require("fs");
+const D=JSON.parse(fs.readFileSync(__dirname+"/../database/jebel-ali-data.json","utf8")),M=require("../manifest.json");
+const sprite=fs.readFileSync(__dirname+"/../assets/icons.svg","utf8"),js=fs.readFileSync(__dirname+"/../script.js","utf8");
+const cats=["other_parts","churches","malls","restaurants","gyms","markets","study_masteral","study_pmp","jogging_walking_bike","other_places","transport","dubai_streets","car_repair","government_civic","markets_technical"];
+cats.forEach(k=>{assert(D[k]&&D[k].length,"missing "+k);D[k].forEach(i=>{assert(i.name&&i.desc,"bad item in "+k);if(k!="dubai_streets")assert(i.area&&Array.isArray(i.tags)&&i.tags.length,"missing area/tags: "+i.name)})});
+const R=[...js.matchAll(/\["(\w+)","[^"]+","(\w+)"\]/g)];assert(R.length>=14,"rail entries");
+R.forEach(m=>{assert(D[m[1]],"rail category not in data: "+m[1]);assert(sprite.includes('id="i-'+m[2]+'"'),"missing icon "+m[2])});
+["name","start_url","display","icons"].forEach(k=>assert(M[k],k));
+M.icons.concat(M.screenshots).forEach(i=>assert(fs.existsSync(__dirname+"/../"+i.src),"missing file "+i.src));
+const bad=JSON.stringify(D).match(/https?:\/\/[^"\s]+/g)||[];assert(bad.length==0,"unexpected raw links");
+["Jebel Ali Port","Al Maktoum International Airport (DWC)","Bus N55","Bus F55","Park & Ride","Ibn Battuta Mall parking","Dubai International Airport"].forEach(k=>assert(D.transport.some(i=>i.name.includes(k)),"transport missing "+k));
+console.log("OK",cats.length,"categories,",R.length,"rail pills");
